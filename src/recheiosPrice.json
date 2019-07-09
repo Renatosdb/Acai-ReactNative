@@ -1,0 +1,10 @@
+[
+  { "name": "Leite em Po", "price": "$5.00" },
+  { "name": "Calda Chocolate", "price": "$5.00" },
+  { "name": "Calda de Morango", "price": "$5.00" },
+  { "name": "Banana", "price": "$5.00" },
+  { "name": "Granola", "price": "$5.00" },
+  { "name": "Farinha Lactea", "price": "$5.00" },
+  { "name": "Paçoca", "price": "$5.00" },
+  { "name": "Leite condensado", "price": "$5.00" }
+]
